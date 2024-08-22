@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NoteSphere/static/css/main.0aec19a1.css",
+    "main.js": "/NoteSphere/static/js/main.97e6bfe4.js",
+    "static/js/453.d724e79d.chunk.js": "/NoteSphere/static/js/453.d724e79d.chunk.js",
+    "index.html": "/NoteSphere/index.html",
+    "main.0aec19a1.css.map": "/NoteSphere/static/css/main.0aec19a1.css.map",
+    "main.97e6bfe4.js.map": "/NoteSphere/static/js/main.97e6bfe4.js.map",
+    "453.d724e79d.chunk.js.map": "/NoteSphere/static/js/453.d724e79d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aec19a1.css",
+    "static/js/main.97e6bfe4.js"
+  ]
+}
